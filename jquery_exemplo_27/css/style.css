@@ -1,0 +1,16 @@
+#painel, #flip {
+  padding: 5px;
+  font-size: 18px;
+  text-align: center;
+  background-color: #f9aeae;
+  color: rgb(73, 12, 46);
+  border: solid 1px #b60808;
+  border-radius: 3px;
+}
+
+#painel {
+  padding: 50px;
+  display: none;
+}
+
+
